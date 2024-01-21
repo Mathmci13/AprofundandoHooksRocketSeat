@@ -4,7 +4,7 @@ import { GlobalStyle } from './styles/global'
 import { BrowserRouter } from 'react-router-dom'
 import { Router } from './Router'
 
-// ultima aula assistida: Header e Layout, modulo 2
+// ultima aula assistida: Pagina: Home, modulo 2
 
 export function App() {
   return (
