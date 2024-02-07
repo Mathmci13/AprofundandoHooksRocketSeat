@@ -4,7 +4,7 @@ import { GlobalStyle } from './styles/global'
 import { BrowserRouter } from 'react-router-dom'
 import { Router } from './Router'
 
-// ultima aula assistida: ReactHookForm
+// ultima aula assistida: O hook useEffect
 
 export function App() {
   return (
