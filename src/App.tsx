@@ -4,8 +4,7 @@ import { GlobalStyle } from './styles/global'
 import { BrowserRouter } from 'react-router-dom'
 import { Router } from './Router'
 
-// ultima aula assistida: O hook useEffect
-
+// ultima aula assistida: Ciclo Completo
 export function App() {
   return (
     <>
