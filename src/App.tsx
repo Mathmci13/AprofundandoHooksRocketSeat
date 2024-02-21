@@ -4,7 +4,7 @@ import { GlobalStyle } from './styles/global'
 import { BrowserRouter } from 'react-router-dom'
 import { Router } from './Router'
 
-// ultima aula assistida: Finalizado módulo 4
+// ultima aula assistida: Contexto no formulário
 export function App() {
   return (
     <>
