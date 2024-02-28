@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom'
 import { Router } from './Router'
 import { CyclesContextProvider } from './contexts/CyclesContext'
 
-// ultima aula assistida: Finalizado módulo 5!
+// ultima aula assistida: Salvando um objeto no Reducer
 export function App() {
   return (
     <>
